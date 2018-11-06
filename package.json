@@ -1,0 +1,14 @@
+{
+  "name": "array-deque",
+  "version": "1.0.1",
+  "description": "Array-backed implementation of a deque. Supports O(1) random access, and amortized O(1) insertion and removal at the front and back of the deque",
+  "main": "ArrayDeque.js",
+  "scripts": {
+    "test": "mocha DequeTest.js"
+  },
+  "author": "Kevin Diez-Ocampo",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
