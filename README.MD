@@ -1,3 +1,7 @@
+## Disclaimer
+
+This is a pretty garbo implementation that I made as an exercise in developing NPM modules with auto-generated docs. Please one of the many better data structure frameworks out there
+
 <a name="ArrayDeque"></a>
 
 ## ArrayDeque
